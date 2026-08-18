@@ -18,6 +18,9 @@ Staircase (Locomotion > 2-StoryStaircase > 2-StoryStaircase.usd):
 Interactable Kitchen (Locomotion > KitchenRoom > KitchenRoom.usd):
 <img width="2033" height="1009" alt="kitchen" src="https://github.com/user-attachments/assets/3f9f9dc3-a34c-462d-a579-71acb75a832c" />
 
+# Molmo Spaces
+Some more assets here after download:
+https://github.com/allenai/molmospaces/tree/main/molmo_spaces_isaac 
 
 
 
