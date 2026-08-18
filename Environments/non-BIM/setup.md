@@ -3,7 +3,7 @@ _From the repo: https://github.com/LightwheelAI/Lightwheel-simready-asset_
 
 Contains environments and assets for locomotion and manipulation. Also contains grass, muddy path, snowy path, etc.
 
-Download the ZIP containing their assets here, for free:
+Download the ZIP containing their USD assets here, for free:
 
 https://drive.google.com/file/d/1S1W-vDNvsOOQU0qViEax_QS0zr0zGLfX/view 
 
