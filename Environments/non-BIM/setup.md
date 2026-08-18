@@ -1,5 +1,5 @@
 # LightWheelAI's Assets
-_From the repo: https://github.com/LightwheelAI/Lightwheel-simready-asset_
+_Gathered from the repo: https://github.com/LightwheelAI/Lightwheel-simready-asset_
 
 Contains environments and assets for locomotion and manipulation. Also contains grass, muddy path, snowy path, etc.
 
