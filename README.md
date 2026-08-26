@@ -1,5 +1,5 @@
 # isaacsim-environments-robots
-Contains USD files of some robots and environments for use in Isaac Sim.
+Contains USD files and documentation of some robots, environments and sensors for use in Isaac Sim.
 
-For more environments, see: https://docs.isaacsim.omniverse.nvidia.com/5.1.0/assets/usd_assets_environments.html
+For more environment assets, see: https://docs.isaacsim.omniverse.nvidia.com/5.1.0/assets/usd_assets_environments.html
 
