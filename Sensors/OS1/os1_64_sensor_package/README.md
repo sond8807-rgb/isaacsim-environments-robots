@@ -37,3 +37,5 @@ Then, add the required Action Graphs (See step 2: https://github.com/sond8807-rg
 
 Add it as a reference into Isaac Sim (Drag and drop it onto the scene from the Content window).
 To change the config, go under the Property tab and change "Sensor config" to your liking: OS1_REV6_64ch10hz512res, or 10hz1024res / 10hz2048res / 20hz512res / 20hz1024res
+
+The ros domain ID is modifiable in the "Context" nodes.
