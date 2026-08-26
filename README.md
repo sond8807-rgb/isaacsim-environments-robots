@@ -1,5 +1,5 @@
 # isaacsim-environments-robots
-Contains USD files and documentation of some robots, environments and sensors for use in Isaac Sim.
+Contains installation documentation and USD files of some MIST Lab robots, environments and sensors for use in Isaac Sim.
 
 For more environment assets, see: https://docs.isaacsim.omniverse.nvidia.com/5.1.0/assets/usd_assets_environments.html
 
