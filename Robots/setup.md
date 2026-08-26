@@ -2,3 +2,5 @@
 
 After cloning the repo, go to the Content window in Isaac Sim and drag and drop the robot onto the viewport: Robots > robot_name.usd. 
 
+Both the Spot robot and G1 are available in the Isaac Sim Asset Browser.
+
