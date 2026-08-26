@@ -6,7 +6,7 @@ Requirements: Isaac Sim, ros2, rviz2 (for visualization).
 
 **1. Place the sensor on the robot**
 
-**OS1-64: There is currently no OS1-64 sensor in Isaac Sim.**
+* **OS1-64: There is currently no OS1-64 sensor in Isaac Sim.** Instructions here: https://github.com/sond8807-rgb/isaacsim-environments-robots/tree/main/Sensors/OS1/os1_64_sensor_package
 
 OS1-32 and OS1-128: Isaac Sim already has both the OS1-32 and OS1-128 in the asset browser. To Add the OS1-128 sensor to the scene: Create > Sensors > RTX Lidar > Ouster > OS1. Make sure to move the sensor under the robot's body prim so that the sensor becomes attached to it. For example, on the spot robot, I have the "OS1" prim under the "body" prim.
 
