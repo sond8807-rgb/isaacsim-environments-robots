@@ -5,7 +5,9 @@ Requirements: Isaac Sim, ros2, rviz2 (for visualization).
 <img width="3280" height="1472" alt="spot_lidar_os1" src="https://github.com/user-attachments/assets/5b3d9527-60ea-47cd-b4b3-491a4a9b2f3b" />
 
 **1. Place the sensor on the robot**
+
 OS1-64: 
+
 OS1-128: Isaac Sim already has the OS1-128. Add the OS1-128 sensor to the scene: Create > Sensors > RTX Lidar > Ouster > OS1. Make sure to move the sensor under the robot's body prim so that the sensor becomes attached to it. For example, on the spot robot, I have the "OS1" prim under the "body" prim.
 
 **2. Set up the Action Graphs (point cloud publisher and TF publisher)** 
